@@ -1,0 +1,12 @@
+{
+    "name": "fucking-simple-task-management",
+    "version": "0.1",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "eslint": "^4.19.1"
+    }
+}
